@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 sufi
 chupi
 jake
-=======
 maple
->>>>>>> movies
